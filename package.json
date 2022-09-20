@@ -1,0 +1,27 @@
+{
+  "name": "front-end-module",
+  "version": "1.0.0",
+  "description": "learn front-end moudle ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llifangyin/front-end-module.git"
+  },
+  "keywords": [
+    "amd",
+    "umd",
+    "cmd",
+    "ems",
+    "systemjs",
+    "requirejs"
+  ],
+  "author": "lifangyin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llifangyin/front-end-module/issues"
+  },
+  "homepage": "https://github.com/llifangyin/front-end-module#readme"
+}
