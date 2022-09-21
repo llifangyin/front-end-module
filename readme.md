@@ -10,3 +10,4 @@ NodeJS诞生之后，它开始使用CommonJS模块化规范。
 
 目前流行的模块化规范有 **CommonJs、AMD、CMD、UMD、ESModule**
 
+![module关系](./modules.jpg '模块')
