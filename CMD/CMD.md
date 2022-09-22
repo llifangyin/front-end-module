@@ -15,3 +15,8 @@ define(function(require,exports,module) {
 })
 ```
 
+
+CMD与AMD的区别：
+- AMD推崇前置前行，提前执行
+- CMD推崇依赖就近，延迟执行
+- CMD不被webpack识别
